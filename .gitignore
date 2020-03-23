@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+res_rc.py
+MainWindow.py
+monitorinfo.spec
